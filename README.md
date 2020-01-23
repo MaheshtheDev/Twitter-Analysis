@@ -8,7 +8,7 @@ like Opinion of Tesla Cyber Truck\
 
 ## Tesla Cyber-Truck
 
--> This Analysis is made to know the Reaction of the New Tesla CyberTruck  on Twitter
+-> This Analysis is made to know the Reaction of the New Tesla CyberTruck  on Twitter\
 -> Sentiment analysis has been applied on the Data
--> Data was collected from Twitter API
+-> Data was collected from Twitter API\
 -> Tweepy Library has been used for analysis
